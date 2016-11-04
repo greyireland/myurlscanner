@@ -1,0 +1,17 @@
+{
+    "name": "mycomp/urlscanner",
+    "description": "Scan urls .",
+    "require": {
+        "php": ">=5.4.0",
+        "guzzlehttp/guzzle": "~5.0",
+        "phpunit/phpunit": "~4.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shawn",
+            "email": "fruitbag@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
